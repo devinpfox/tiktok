@@ -13,11 +13,16 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://inztugram.com"),
   title: "Jake Ryan • Reel",
   description: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
   icons: {
-    icon: "/FAVICON.png",
+    icon: [
+      { url: "/FAVICON.png" },
+      { url: "/FAVICON.png", sizes: "192x192", type: "image/png" },
+    ],
     apple: "/FAVICON.png",
+    shortcut: "/FAVICON.png",
   },
   openGraph: {
     title: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
