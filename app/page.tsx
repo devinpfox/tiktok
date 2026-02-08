@@ -6,8 +6,8 @@ export default function Home() {
         autoPlay
         muted
         playsInline
-        controls
-        className="max-h-screen max-w-full"
+        loop
+        className="h-screen w-screen object-contain"
       />
     </div>
   );
