@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://inztugram.com"),
   title: "Jake Ryan • Reel",
-  description: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
+  description: '100K views, 2,500 likes, 120 comments: "Why I'm renouncing homosexuality..."',
   icons: {
     icon: [
       { url: "/favicon.ico" },
@@ -28,8 +28,8 @@ export const metadata: Metadata = {
     shortcut: "/favicon.ico",
   },
   openGraph: {
-    title: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
-    description: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
+    title: '100K views, 2,500 likes, 120 comments: "Why I'm renouncing homosexuality..."',
+    description: '100K views, 2,500 likes, 120 comments: "Why I'm renouncing homosexuality..."',
     siteName: "Jake Ryan • Reel",
     images: [
       {
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Jake Ryan • Reel",
-    description: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
+    description: '100K views, 2,500 likes, 120 comments: "Why I'm renouncing homosexuality..."',
     images: ["/lead-in-image.jpg"],
   },
 };
