@@ -28,9 +28,9 @@ export const metadata: Metadata = {
     shortcut: "/favicon.ico",
   },
   openGraph: {
-    title: '100K views, 2,500 likes, 120 comments: "Why I\'m renouncing homosexuality..."',
+    title: "Jake Ryan • Reel",
     description: '100K views, 2,500 likes, 120 comments: "Why I\'m renouncing homosexuality..."',
-    siteName: "Jake Ryan • Reel",
+    siteName: "Instagram",
     images: [
       {
         url: "/lead-in-image.jpg",
