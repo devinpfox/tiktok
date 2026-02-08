@@ -18,11 +18,14 @@ export const metadata: Metadata = {
   description: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
   icons: {
     icon: [
-      { url: "/FAVICON.png" },
+      { url: "/favicon.ico" },
       { url: "/FAVICON.png", sizes: "192x192", type: "image/png" },
     ],
-    apple: "/FAVICON.png",
-    shortcut: "/FAVICON.png",
+    apple: [
+      { url: "/apple-touch-icon.png" },
+      { url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" },
+    ],
+    shortcut: "/favicon.ico",
   },
   openGraph: {
     title: '100K views, 2,500 likes, 120 comments: "EXPOSING THE LIBERALS"',
