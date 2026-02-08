@@ -14,6 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://inztugram.com"),
+  manifest: "/manifest.json",
   title: "Jake Ryan • Instagram Reel",
   description: '100K views, 2,500 likes, 120 comments: "Why I\'m renouncing homosexuality..."',
   icons: {
