@@ -8,6 +8,7 @@ export default function Home() {
         muted
         playsInline
         loop
+        preload="auto"
         className="h-screen w-screen object-contain"
       />
     </div>
