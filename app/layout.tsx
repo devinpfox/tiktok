@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://inztugram.com"),
   manifest: "/manifest.json",
-  title: "Jake Ryan • Instagram Reel",
-  description: '100K views, 2,500 likes, 120 comments: "Why I\'m renouncing homosexuality..."',
+  title: "Francesca • TikTok",
+  description: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
   icons: {
     icon: [
       { url: "/favicon.ico" },
@@ -29,23 +29,23 @@ export const metadata: Metadata = {
     shortcut: "/favicon.ico",
   },
   openGraph: {
-    title: '100K views, 2,500 likes, 120 comments: "Why I\'m renouncing homosexuality..."',
-    description: '100K views, 2,500 likes, 120 comments: "Why I\'m renouncing homosexuality..."',
-    siteName: "Jake Ryan • Reel",
+    title: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
+    description: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
+    siteName: "Francesca • TikTok",
     images: [
       {
-        url: "/lead-in-image.jpg",
-        width: 1200,
-        height: 630,
+        url: "/lead-in-image.png",
+        width: 990,
+        height: 1762,
       },
     ],
     type: "video.other",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Jake Ryan • Reel",
-    description: '100K views, 2,500 likes, 120 comments: "Why I\'m renouncing homosexuality..."',
-    images: ["/lead-in-image.jpg"],
+    title: "Francesca • TikTok",
+    description: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
+    images: ["/lead-in-image.png"],
   },
 };
 
