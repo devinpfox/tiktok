@@ -19,7 +19,7 @@ export default function Home() {
       <video
         ref={videoRef}
         src="/JAKE-RYAN.mp4"
-        poster="/lead-in-image.png"
+        poster="/lead-in-haunted-house.jpg"
         autoPlay
         muted
         playsInline

@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   metadataBase: new URL("https://inztugram.com"),
   manifest: "/manifest.json",
-  title: "Francesca • TikTok",
-  description: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
+  title: "GothBaddie • Instagram",
+  description: '340K views, 35K likes, 4500 comments: "Could you survive this haunted house?..."',
   icons: {
     icon: [
       { url: "/favicon.ico" },
@@ -29,23 +29,23 @@ export const metadata: Metadata = {
     shortcut: "/favicon.ico",
   },
   openGraph: {
-    title: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
-    description: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
-    siteName: "Francesca • TikTok",
+    title: '340K views, 35K likes, 4500 comments: "Could you survive this haunted house?..."',
+    description: '340K views, 35K likes, 4500 comments: "Could you survive this haunted house?..."',
+    siteName: "GothBaddie • Instagram",
     images: [
       {
-        url: "/lead-in-image.png",
-        width: 990,
-        height: 1762,
+        url: "/lead-in-haunted-house.jpg",
+        width: 335,
+        height: 597,
       },
     ],
     type: "video.other",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Francesca • TikTok",
-    description: '250K views, 18K likes, 1,200 comments: "What you don\'t know about the new Harry Potter..."',
-    images: ["/lead-in-image.png"],
+    title: "GothBaddie • Instagram",
+    description: '340K views, 35K likes, 4500 comments: "Could you survive this haunted house?..."',
+    images: ["/lead-in-haunted-house.jpg"],
   },
 };
 
